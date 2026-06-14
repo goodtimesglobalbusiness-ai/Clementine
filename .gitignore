@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+warns.json
+config.json
+queue.json
+good-times-docs-7d7ac70ded56.json
+/credentials/
+# secrets ~ never commit these
+credentials/
+data/config.json
+
+# the rest of the runtime data (optional ~ keep if you want a clean repo)
+data/*.json
