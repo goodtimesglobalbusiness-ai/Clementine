@@ -1,0 +1,6 @@
+# TTS-specific dependencies (add to main requirements.txt)
+elevenlabs==0.2.28
+requests==2.31.0
+discord.py[voice]==2.3.2
+stripe==7.8.0
+python-dotenv==1.0.0
