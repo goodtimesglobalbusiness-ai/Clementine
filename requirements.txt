@@ -1,0 +1,2 @@
+Discord account with either Owner or full Admin permission sets
+Must have and link a google drive account to use the Drive "/"commands
